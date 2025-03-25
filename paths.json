@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/demo-eds-universal-editor-43036/:/",
-    "/content/demo-eds-universal-editor-43036/configuration:/.helix/config.json",
-    "/content/demo-eds-universal-editor-43036/metadata:/metadata.json"
+    "/content/demo-eds-universal-editor-36/:/",
+    "/content/demo-eds-universal-editor-36/configuration:/.helix/config.json",
+    "/content/demo-eds-universal-editor-36/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/demo-eds-universal-editor-43036/"
+    "/content/demo-eds-universal-editor-36/"
   ]
 }
